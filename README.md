@@ -18,5 +18,38 @@ iTerm2 is a popular terminal emulator for macOS. It is a replacement for the bui
 
 iTerm2 is widely used by developers, sysadmins, and anyone who frequently works in a command-line environment on macOS. Its extensive features and customizability make it a powerful tool for improving productivity and enhancing the terminal experience.
 
-It integrates smoothly with  **"Oh My Zsh,"** which is a popular open-source framework for managing the Zsh (Z Shell) configuration
+It integrates smoothly with  **"Oh My Zsh,"** which is a popular open-source framework for managing the Zsh (Z Shell) configuration.
 
+Iterms allows us to back up the settings and reload into multiple PCs. Below are the steps.
+
+### Backup iTerm2 Settings and Profiles:
+
+1. Open iTerm2 on your current system.
+2. Go to iTerm2 in the menu bar, then select Preferences.
+3. Customize your profiles, settings, colors, and other preferences according to your needs.
+4. To back up your settings, including profiles and other configurations, you'll need to back up the iTerm2 configuration files. The location of these files is usually in your user's home directory, specifically ~/.config/iterm2 or ~/Library/Application Support/iTerm2.
+You can use the following commands in the terminal to create a backup:
+
+### Release Feature:
+
+Releasing a feature in iTerm2 generally refers to sharing your customized profiles and settings with others, often in the context of open-source projects or when you want to set up a consistent environment on multiple systems. To release your iTerm2 settings and profiles:
+
+#### Export Profiles:
+1. Open iTerm2.
+2. Go to iTerm2 > Preferences.
+3. Navigate to the Profiles tab.
+4. Select the profiles you want to export from the left sidebar.
+5. Click the Other Actions button (three horizontal dots) at the bottom.
+6. Choose Export JSON Profiles... and save the exported JSON file to a location.
+7. Share the Exported JSON File:
+
+You can share the exported JSON profiles file with others via email, cloud storage, or any other method you prefer.
+#### Import Profiles on Another System:
+
+1. Install iTerm2 on the new system if needed.
+2. Copy the exported JSON profiles file to the new system.
+3. Open iTerm2 on the new system.
+4. Go to iTerm2 > Preferences.
+5. Navigate to the Profiles tab.
+6. Click the Other Actions button (three horizontal dots) at the bottom.
+7. Choose Import JSON Profiles... and select the JSON file you copied.
