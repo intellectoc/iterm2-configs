@@ -18,5 +18,5 @@ iTerm2 is a popular terminal emulator for macOS. It is a replacement for the bui
 
 iTerm2 is widely used by developers, sysadmins, and anyone who frequently works in a command-line environment on macOS. Its extensive features and customizability make it a powerful tool for improving productivity and enhancing the terminal experience.
 
-It integrates smoothly with  "Oh My Zsh," which is a popular open-source framework for managing the Zsh (Z Shell) configuration
+It integrates smoothly with  **"Oh My Zsh,"** which is a popular open-source framework for managing the Zsh (Z Shell) configuration
 
