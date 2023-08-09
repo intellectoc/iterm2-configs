@@ -15,5 +15,5 @@ iTerm2 is a popular terminal emulator for macOS. It is a replacement for the bui
 11. Triggered Actions: You can configure iTerm2 to perform specific actions when certain text patterns are detected in the terminal output. This can be useful for automation and notification purposes.
 12. Secure Shell (SSH) Integration: iTerm2 integrates with SSH for secure remote connections, offering features like password management and keychain integration.
 13. Searchable Scrollback: You can easily search through your terminal history to find and reuse commands or output.
-14. 
+
 iTerm2 is widely used by developers, sysadmins, and anyone who frequently works in a command-line environment on macOS. Its extensive features and customizability make it a powerful tool for improving productivity and enhancing the terminal experience.
