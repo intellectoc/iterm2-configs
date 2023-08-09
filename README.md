@@ -17,3 +17,6 @@ iTerm2 is a popular terminal emulator for macOS. It is a replacement for the bui
 13. Searchable Scrollback: You can easily search through your terminal history to find and reuse commands or output.
 
 iTerm2 is widely used by developers, sysadmins, and anyone who frequently works in a command-line environment on macOS. Its extensive features and customizability make it a powerful tool for improving productivity and enhancing the terminal experience.
+
+It integrates smoothly with  "Oh My Zsh," which is a popular open-source framework for managing the Zsh (Z Shell) configuration
+
