@@ -22,6 +22,39 @@ It integrates smoothly with  **"Oh My Zsh,"** which is a popular open-source fra
 
 Iterms allows us to back up the settings and reload into multiple PCs. Below are the steps.
 
+### Sample Config file
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <!-- General settings -->
+    <key>NormalFont</key>
+    <string>Menlo-Regular 12</string>
+    <key>NonAsciiFont</key>
+    <string>DejaVuSansMono 12</string>
+    <key>UseBoldFonts</key>
+    <false/>
+
+    <!-- Color settings -->
+    <key>TabColor</key>
+    <string>#1E90FF</string>
+
+    <!-- Window settings -->
+    <key>Rows</key>
+    <integer>30</integer>
+    <key>Columns</key>
+    <integer>100</integer>
+    
+    <!-- Other settings -->
+    <key>Hotkey</key>
+    <string>Ctrl+Opt+T</string>
+    <key>CheckSpellingWhileTyping</key>
+    <false/>
+</dict>
+</plist>
+
+
 ### Backup iTerm2 Settings and Profiles:
 
 1. Open iTerm2 on your current system.
